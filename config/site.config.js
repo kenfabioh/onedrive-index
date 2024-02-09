@@ -31,14 +31,14 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double quotes - changing " to \".
   // You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-  'Powered by <a href="https://github.com/iRedScarf/onedrive-index" target="_blank" rel="noopener noreferrer">onedrive-index</a>.',
+  'Powered by Kenoshy.',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/iRedScarf/onedrive-index',
+      name: 'HubWarez',
+      link: 'https://hubwarez.tv/forum/',
     },
   ],
 
@@ -58,5 +58,5 @@ module.exports = {
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
-  datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
+  datetimeFormat: 'DD-MM-YYY HH:mm:ss',
 }
